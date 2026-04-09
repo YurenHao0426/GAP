@@ -220,7 +220,7 @@ Full BibTeX (copy the entire block — all five entries are mandatory):
 ## Links
 
 - **Paper (arXiv)**: <https://arxiv.org/abs/2508.08833>
-- **Hugging Face dataset**: <https://huggingface.co/datasets/blackhao0426/PutnamGAP>
 - **GAP framework code (this repo)**: <https://github.com/YurenHao0426/GAP>
-- **PutnamGAP companion code mirror**: <https://github.com/YurenHao0426/PutnamGAP>
+- **PutnamGAP dataset (Hugging Face — primary)**: <https://huggingface.co/datasets/blackhao0426/PutnamGAP>
+- **PutnamGAP dataset (GitHub mirror)**: <https://github.com/YurenHao0426/PutnamGAP>
 - **Issues & contact**: <https://github.com/YurenHao0426/GAP/issues>
