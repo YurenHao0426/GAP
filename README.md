@@ -2,6 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.08833-b31b1b.svg)](https://arxiv.org/abs/2508.08833)
 [![Hugging Face](https://img.shields.io/badge/🤗_Dataset-PutnamGAP-yellow.svg)](https://huggingface.co/datasets/blackhao0426/PutnamGAP)
+[![Dataset Mirror](https://img.shields.io/badge/GitHub-PutnamGAP_mirror-blue?logo=github)](https://github.com/YurenHao0426/PutnamGAP)
+[![GAP Code](https://img.shields.io/badge/GitHub-GAP_framework-181717?logo=github)](https://github.com/YurenHao0426/GAP)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **GAP** (*Generalization-and-Perturbation*) is an automatable evaluation framework for stress-testing the **robustness of LLM mathematical reasoning** under semantically equivalent transformations of advanced math problems. It partitions equivalence-preserving transformations into two qualitatively different families — **surface renaming** and **kernel parameter resampling** — and provides paired-evaluation, mechanism-sensitive analyses that prior perturbation benchmarks cannot.
