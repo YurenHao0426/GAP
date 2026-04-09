@@ -1,0 +1,88 @@
+cff-version: 1.2.0
+message: |
+  If you use the GAP framework or the PutnamGAP dataset, you MUST cite both
+  this work and the four MAA Putnam source books listed in the README under
+  "Citation".
+title: "GAP — Generalization-and-Perturbation Framework for LLM Mathematical Reasoning Robustness"
+authors:
+  - family-names: Hao
+    given-names: Yuren
+  - family-names: Wan
+    given-names: Xiang
+  - family-names: Zhai
+    given-names: ChengXiang
+year: 2025
+url: "https://github.com/YurenHao0426/GAP"
+repository-code: "https://github.com/YurenHao0426/GAP"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: |
+    An Investigation of Robustness of LLMs in Mathematical Reasoning:
+    Benchmarking with Mathematically-Equivalent Transformation of Advanced
+    Mathematical Problems
+  authors:
+    - family-names: Hao
+      given-names: Yuren
+    - family-names: Wan
+      given-names: Xiang
+    - family-names: Zhai
+      given-names: ChengXiang
+  year: 2025
+  journal: "arXiv preprint arXiv:2508.08833"
+  url: "https://arxiv.org/abs/2508.08833"
+references:
+  - type: book
+    title: "The William Lowell Putnam Mathematical Competition: Problems and Solutions 1938-1964"
+    authors:
+      - family-names: Gleason
+        given-names: A. M.
+      - family-names: Greenwood
+        given-names: R. E.
+      - family-names: Kelly
+        given-names: L. M.
+    year: 1980
+    publisher:
+      name: Mathematical Association of America
+    notes: "MAA Problem Books, vol. 1; reprinted by AMS/MAA Press"
+  - type: book
+    title: "The William Lowell Putnam Mathematical Competition: Problems and Solutions 1965-1984"
+    authors:
+      - family-names: Alexanderson
+        given-names: Gerald L.
+      - family-names: Klosinski
+        given-names: Leonard F.
+      - family-names: Larson
+        given-names: Loren C.
+    year: 1985
+    publisher:
+      name: Mathematical Association of America
+    notes: "MAA Problem Books, vol. 30"
+  - type: book
+    title: "The William Lowell Putnam Mathematical Competition 1985-2000: Problems, Solutions and Commentary"
+    authors:
+      - family-names: Kedlaya
+        given-names: Kiran S.
+      - family-names: Poonen
+        given-names: Bjorn
+      - family-names: Vakil
+        given-names: Ravi
+    year: 2002
+    publisher:
+      name: Mathematical Association of America
+    notes: "MAA Problem Books, vol. 33"
+  - type: book
+    title: "The William Lowell Putnam Mathematical Competition 2001-2016: Problems, Solutions and Commentary"
+    authors:
+      - family-names: Kedlaya
+        given-names: Kiran S.
+      - family-names: Kane
+        given-names: Daniel M.
+      - family-names: Kane
+        given-names: Jonathan M.
+      - family-names: O'Dorney
+        given-names: Evan M.
+    year: 2020
+    publisher:
+      name: American Mathematical Society (MAA Press)
+    notes: "MAA Problem Books, vol. 37"

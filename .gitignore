@@ -1,0 +1,36 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+
+# Local results / outputs
+results/
+results_new/
+runs/
+outputs/
+*.log
+
+# Data caches
+.cache/
+huggingface_cache/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+api_keys.txt
+secrets.json
+*.pem
+*.key
+.putnam_config.json
+.putnam_env

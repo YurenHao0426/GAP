@@ -1,0 +1,35 @@
+# Core AI provider clients
+openai>=1.0.0
+anthropic>=0.25.0
+google-generativeai>=0.3.0
+
+# Local model support
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# Optional: VLLM for local model serving
+vllm>=0.3.0
+
+# System utilities
+psutil>=5.9.0
+six>=1.16.0
+
+# Development and utility libraries
+asyncio-throttle>=1.0.0
+aiohttp>=3.8.0
+requests>=2.25.0
+
+# Data handling
+numpy>=1.21.0
+pandas>=1.3.0
+
+# JSON and data processing
+jsonschema>=4.0.0
+
+# Math and scientific computing
+sympy>=1.9.0
+matplotlib>=3.5.0
+
+# Progress bars and UI
+tqdm>=4.60.0 

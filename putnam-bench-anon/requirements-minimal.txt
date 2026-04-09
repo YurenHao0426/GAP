@@ -1,0 +1,16 @@
+# Minimal requirements for basic functionality
+# Core AI provider clients
+openai>=1.0.0
+anthropic>=0.25.0
+google-generativeai>=0.3.0
+
+# System utilities
+psutil>=5.9.0
+six>=1.16.0
+
+# Basic async support
+aiohttp>=3.8.0
+requests>=2.25.0
+
+# Progress bars
+tqdm>=4.60.0 

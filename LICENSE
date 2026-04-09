@@ -1,0 +1,60 @@
+GAP Framework License
+=====================
+
+PART 1 -- All pipeline source code, variant generation scripts, evaluation
+harness, structural-overlap analysis, rescue runner, cleaning/audit tools,
+README, datasheet, and any other artefacts authored by the GAP project are
+released under the:
+
+  Creative Commons Attribution 4.0 International License (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to:
+  - Share -- copy and redistribute the material in any medium or format
+  - Adapt -- remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following terms:
+  - Attribution -- You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+PART 2 -- ORIGINAL PUTNAM PROBLEMS AND CANONICAL SOLUTIONS
+
+The companion PutnamGAP dataset (https://huggingface.co/datasets/blackhao0426/PutnamGAP)
+contains the original problem statements and canonical solutions of the
+William Lowell Putnam Mathematical Competition, reproduced from four
+authoritative monographs published by the Mathematical Association of
+America (MAA Press) and redistributed under the fair-use clause stated in
+the front-matter of every volume:
+
+  "Individual readers ... are permitted to make fair use of the material,
+  such as to copy select pages for use in teaching or research."
+
+These texts remain the intellectual property of the Mathematical
+Association of America (MAA). They are NOT licensed under CC BY 4.0.
+
+If you use this code or the PutnamGAP dataset in any research output you
+MUST cite the four MAA source books in addition to the GAP framework
+paper. The four source books are:
+
+  1. Gleason, Greenwood, Kelly. The William Lowell Putnam Mathematical
+     Competition: Problems and Solutions 1938-1964. MAA, 1980.
+  2. Alexanderson, Klosinski, Larson. The William Lowell Putnam
+     Mathematical Competition: Problems and Solutions 1965-1984. MAA, 1985.
+  3. Kedlaya, Poonen, Vakil. The William Lowell Putnam Mathematical
+     Competition 1985-2000: Problems, Solutions and Commentary. MAA, 2002.
+  4. Kedlaya, Kane, Kane, O'Dorney. The William Lowell Putnam Mathematical
+     Competition 2001-2016: Problems, Solutions and Commentary. AMS
+     (MAA Press), 2020.
+
+Problem and solution sets from 2017 onward are included with the explicit
+permission of MAA.
+
+NOTICE FOR RIGHTS-HOLDERS
+
+If you are an author, publisher, or rights-holder and you believe any
+portion of this release infringes your rights, please open an issue at
+https://github.com/YurenHao0426/GAP/issues or email the maintainer.
+The affected items will be removed promptly.

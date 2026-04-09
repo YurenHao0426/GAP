@@ -1,0 +1,1 @@
+"""Scripts package for Putnam mathematical problem solver.""" 

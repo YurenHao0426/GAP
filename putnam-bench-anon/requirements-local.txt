@@ -1,0 +1,27 @@
+# Requirements for local model support (GPU recommended)
+# Base requirements
+-r requirements-minimal.txt
+
+# PyTorch with CUDA support (install separately with specific CUDA version)
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# HuggingFace transformers ecosystem
+transformers>=4.30.0
+accelerate>=0.20.0
+tokenizers>=0.13.0
+
+# Optional: VLLM for high-performance inference
+vllm>=0.3.0
+
+# GPU monitoring and management
+nvidia-ml-py3>=11.0.0
+
+# Model quantization and optimization
+bitsandbytes>=0.39.0
+
+# Additional utilities for local models
+safetensors>=0.3.0
+huggingface-hub>=0.16.0
+
+# Progress bars
+tqdm>=4.60.0 
